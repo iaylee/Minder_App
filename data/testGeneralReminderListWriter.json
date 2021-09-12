@@ -1,0 +1,14 @@
+{"reminder list": [
+    {
+        "date": "2021/05/03",
+        "reminder": "Sing",
+        "hour": 4,
+        "minute": 55
+    },
+    {
+        "date": "2021/12/05",
+        "reminder": "Sleep",
+        "hour": 23,
+        "minute": 59
+    }
+]}
